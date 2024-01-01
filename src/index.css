@@ -194,6 +194,10 @@ textarea{
     font-weight: 600;
 }
 
+.watch-font{
+    font-size:40px;
+}
+
 
 
 
@@ -256,6 +260,10 @@ textarea{
 
     .warranty-card-container .small-watch{
         transform: translate(-35px,0px);
+    }
+
+    .watch-font{
+        font-size:20px;
     }
     
 

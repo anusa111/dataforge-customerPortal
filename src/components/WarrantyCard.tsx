@@ -25,6 +25,7 @@ const WarrantyCard = () => {
                 <div>
                   <div style={{ marginBottom: "4px" }}>
                     <span
+                      className="watch-font"
                       style={{
                         color: "var(--primary-color)",
                       }}
